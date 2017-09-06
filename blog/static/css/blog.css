@@ -12,10 +12,11 @@
 
 .content {
     margin-left: 40px;
+    background-color: lightblue ;
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'Roboto';
 }
 
 .date {
@@ -43,4 +44,7 @@ h1, h2, h3, h4 {
 
 .post h1 a, .post h1 a:visited {
     color: #ff0000;
+}
+.fa{
+    icon: 20px;
 }
